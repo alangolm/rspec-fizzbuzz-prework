@@ -1,3 +1,3 @@
 def fizzbuzz(int)
-  if int
+  if int %
 end  
